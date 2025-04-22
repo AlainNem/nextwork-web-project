@@ -8,7 +8,7 @@ The primary goal of this project is to demonstrate automated build, test, and de
 
 ## Tech Stack
 
-- Java (version X)
+- Java (version 8)
 - Maven
 
 ## Usage
